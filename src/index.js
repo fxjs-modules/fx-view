@@ -1,0 +1,1 @@
+console.log('fibjs', window, Object.keys(window))
